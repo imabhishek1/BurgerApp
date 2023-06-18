@@ -1,0 +1,18 @@
+{
+  "home" : {
+	  "Burger": "Please Add the ingredients :) ",
+	  "Burger Builder" : "Burger Builder",
+	  "Order": "Order",
+	  "Price" : "Price",
+	  "OrderNow" : "ORDER NOW"	,
+	  "Less": "Less",
+	   "More" : "More",
+	   "YourPrice" : "Your Price",
+	   "description" : "A delicious burger with the following ingredients:",
+	   "checkout" : "Continue to Checkout?",
+	   "totalPrice" : "Total Price",
+	   "cancel": "CANCEL",
+	   "continue" : "CONTINUE",
+	   "message" : "We Hope It Taste Well"
+   }
+}

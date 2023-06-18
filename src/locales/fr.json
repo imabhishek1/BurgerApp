@@ -1,0 +1,18 @@
+{
+  "home" : {
+	  "Burger": "veuillez ajouter les ingrédients :)",
+	  "Burger Builder" : "Constructeur de hamburgers",
+	  "Order" : "Ordre",
+	  "Price" : "Prix",
+ 	  "OrderNow" : "COMMANDEZ MAINTENANT",
+	   "Less": "Moins",
+	   "More" : "Suite",
+	   "YourPrice" : "Ton prix",
+	   "description" : "Un délicieux burger avec les ingrédients suivants:",
+	   "checkout" : "Continuer à payer?",
+	   "totalPrice" : "Prix Total",
+	   "cancel": "ANNULER",
+	   "continue" : "CONTINUER",
+	   "message" : "Nous espérons que cela a bon goût"
+   }
+}
